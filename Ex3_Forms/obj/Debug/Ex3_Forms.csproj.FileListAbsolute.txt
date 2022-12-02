@@ -1,0 +1,8 @@
+C:\Users\stu-pksp120\documents\visual studio 2015\Projects\SP3_Bashilov\Ex3_Forms\bin\Debug\Ex3_Forms.exe.config
+C:\Users\stu-pksp120\documents\visual studio 2015\Projects\SP3_Bashilov\Ex3_Forms\bin\Debug\Ex3_Forms.exe
+C:\Users\stu-pksp120\documents\visual studio 2015\Projects\SP3_Bashilov\Ex3_Forms\bin\Debug\Ex3_Forms.pdb
+C:\Users\stu-pksp120\documents\visual studio 2015\Projects\SP3_Bashilov\Ex3_Forms\obj\Debug\Ex3_Forms.Form1.resources
+C:\Users\stu-pksp120\documents\visual studio 2015\Projects\SP3_Bashilov\Ex3_Forms\obj\Debug\Ex3_Forms.Properties.Resources.resources
+C:\Users\stu-pksp120\documents\visual studio 2015\Projects\SP3_Bashilov\Ex3_Forms\obj\Debug\Ex3_Forms.csproj.GenerateResource.Cache
+C:\Users\stu-pksp120\documents\visual studio 2015\Projects\SP3_Bashilov\Ex3_Forms\obj\Debug\Ex3_Forms.exe
+C:\Users\stu-pksp120\documents\visual studio 2015\Projects\SP3_Bashilov\Ex3_Forms\obj\Debug\Ex3_Forms.pdb
